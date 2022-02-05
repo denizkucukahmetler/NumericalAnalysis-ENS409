@@ -2,7 +2,13 @@
 
 This repository contains the course material in the Numerical Analysis Course (Ens409) given at Sabanci University. 
 
-Projects, Homeworks, Lecture Slides, Syllabus, Recitation Materials, Final Exam Questions can be found. 
+You can find: 
+* Projects
+* Homeworks
+* Lecture Slides
+* Recitation Materials
+* Final Exam Questions 
+* Syllabus
 
 
 Note: The solutions of the homeworks, implementation and the reports of the projects are done by me. Therefore, they should not be seen as an answer key. 
